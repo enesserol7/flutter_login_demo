@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "836031996386",
+    "firebase_url": "https://amanatapp-6f755.firebaseio.com",
+    "project_id": "amanatapp-6f755",
+    "storage_bucket": "amanatapp-6f755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836031996386:android:a0b67f7adafe08a8be99bb",
+        "android_client_info": {
+          "package_name": "com.example.taxi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836031996386-r9l7nejmsvtp9so9iehgdkk3c3m6ovrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxi_app",
+            "certificate_hash": "befaec6845f0fbeea66c3bfd0f1773bcf01ce9a1"
+          }
+        },
+        {
+          "client_id": "836031996386-ju79egh1uj9ros535geoo2jpitc574l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCYbcM9yU3xhSwZ676BL308tJr7w-SGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836031996386-ju79egh1uj9ros535geoo2jpitc574l1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836031996386-f9qlubg0hqv4g71fs7gfo3caakdauhmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kg.amanat.amanat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836031996386:android:a7d1dff3aadcf094be99bb",
+        "android_client_info": {
+          "package_name": "kg.amanat.amanat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836031996386-lcejqfd70sqplt53fk5adpl2tv3fmake.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.amanat.amanat",
+            "certificate_hash": "befaec6845f0fbeea66c3bfd0f1773bcf01ce9a1"
+          }
+        },
+        {
+          "client_id": "836031996386-ju79egh1uj9ros535geoo2jpitc574l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCYbcM9yU3xhSwZ676BL308tJr7w-SGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836031996386-ju79egh1uj9ros535geoo2jpitc574l1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836031996386-f9qlubg0hqv4g71fs7gfo3caakdauhmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kg.amanat.amanat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836031996386:android:29d98abd837ca501be99bb",
+        "android_client_info": {
+          "package_name": "kg.amanat.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836031996386-om1rjic10155o942adkk02iu7k3vo3gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.amanat.flutterlogindemo",
+            "certificate_hash": "befaec6845f0fbeea66c3bfd0f1773bcf01ce9a1"
+          }
+        },
+        {
+          "client_id": "836031996386-ju79egh1uj9ros535geoo2jpitc574l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCYbcM9yU3xhSwZ676BL308tJr7w-SGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836031996386-ju79egh1uj9ros535geoo2jpitc574l1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836031996386-f9qlubg0hqv4g71fs7gfo3caakdauhmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kg.amanat.amanat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
